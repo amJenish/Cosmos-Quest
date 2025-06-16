@@ -34,13 +34,6 @@ Dev mode allows for debuggers to skip to any level and manually change their fue
 4. Run the class MainMenuScreen to generate the necessary text files in src (do not move these).
 5. To rerun the program, rerun MainMenuScreen.
 
-## Running the built code
-
-1. Download the ZIP file called "CosmicQuest.zip".
-2. Extract the folder called "CosmicQuest".
-3. Run the executable .exe CosmicQuest.exe file.
-4. As backup, if the .exe file doesn't work, the JAR file CosmicQuest.jar can be launched instead
-
 ## User Guide
 
 ### Students:
